@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Kiran Shenoy K R 👋
+
+🔭 Currently working at **Tetcos LLP** as 
+   Associate Software Developer
+
+💻 Specializing in **C# | .NET | WPF | MVVM**
+
+🌱 Currently learning **JavaScript & React**
+
+💼 Open to **.NET Developer** and **SDE** roles 
+   in Bangalore
+
+📫 Reach me at **kiranshenoy2001@gmail.com**
+
+🔗 LinkedIn: linkedin.com/in/kiran-shenoy22
