@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 💻 Specializing in **C# | .NET | WPF | MVVM**
 
+☕ Proficient in **Java | JSP | Servlets | JDBC | MySQL**
+
+📊 Strong foundation in **Data Structures & Algorithms**
+
 🌱 Currently learning **JavaScript & React**
 
 💼 Open to **.NET Developer** and **SDE** roles 
